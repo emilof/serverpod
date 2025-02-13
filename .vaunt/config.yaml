@@ -135,7 +135,7 @@ achievements:
             condition: count(labels in ['bug', 'enhancement']) >= 100
   - achievement:
       name: Interstellar Protector
-      icon: https://serverpod.dev/badges/issue-100.webp
+      icon: https://serverpod.dev/badges/issue-250.webp
       description: Shielded our digital cosmos by unveiling 250 universal truths.
       triggers:
         - trigger:
